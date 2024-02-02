@@ -1,4 +1,4 @@
-# Trust - Ethereum Wallet and Web3 DApp Browser for iOS
+# FariWallet - Ethereum Wallet and Web3 DApp Browser for iOS
 
 [![Build Status](https://travis-ci.org/TrustWallet/trust-wallet-ios.svg?branch=master)](https://travis-ci.org/TrustWallet/trust-wallet-ios)
 [![Black Duck Security Risk](https://copilot.blackducksoftware.com/github/repos/TrustWallet/trust-wallet-ios/branches/master/badge-risk.svg)](https://copilot.blackducksoftware.com/github/repos/TrustWallet/trust-wallet-ios/branches/master)
@@ -8,7 +8,7 @@
 
 [<img src=resources/app-store-badge.png height="88">](https://itunes.apple.com/us/app/trust-ethereum-wallet/id1288339409)
 
-Welcome to Trust's open source iOS app!
+Welcome to FariWallet's open source iOS app! (Fork of Trust Wallet with native integration to Bitfari)
 
 ## Getting Started
 
